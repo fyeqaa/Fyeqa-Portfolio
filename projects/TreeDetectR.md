@@ -1,15 +1,3 @@
----
-title: "TreeDetectR"
-description: Urban Tree Detection from LiDAR in R
-image: ../images/treedetection.png
----
-<a href="https://github.com/fyeqaa/TreeDetectR" target="_blank">
-  <button style="background-color:#24292e; color:white; padding:8px 16px; border:none; border-radius:5px; cursor:pointer;">
-    GitHub
-  </button>
-</a>
-
-
 TreeDetectR is an R package I developed to detect and segment individual tree from urban LiDAR point cloud data. This project automates the processing steps, from raw LAS files to georeferenced tree locations.
 The goal of this project was to detect and segment individual trees within the university campus using FIS-Broker data’s LiDAR point cloud data. 
 

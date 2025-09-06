@@ -1,15 +1,3 @@
----
-title: "Berlin Park Accessibility "
-image: ../images/BPA.png
-description: Spatial distribution, accessibility, and equity of public parks across Berlin
----
-<a href="https://github.com/fyeqaa/berlin-park-accessibility" target="_blank">
-  <button style="background-color:#24292e; color:white; padding:8px 16px; border:none; border-radius:5px; cursor:pointer;">
-    GitHub
-  </button>
-</a>
-
-
 #### Summary
 
 This project investigates the distribution, accessibility, and equity of public parks across Berlin at both the district (*Bezirk*) and sub-district (*Ortsteil*) levels using geospatial data and 2024 population estimates. The analysis focuses on three main components:

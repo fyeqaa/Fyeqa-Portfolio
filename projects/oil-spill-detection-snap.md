@@ -1,12 +1,3 @@
----
-title: "Oil Spill Detection"
-image: ../images/OSD.png
-description: Oil Spill detection in Tobago Island, Trinidad and Tobago Using SNAP
----
-
-This project was carried out as part of the Microwave and Radar Sensing course.
-
-
 #### Study Area
 
 - **Location:** Trinidad and Tobago

@@ -1,16 +1,3 @@
----
-title: "Forest Fire Susceptibility"
-image: ../images/FFS.png
-description: Assessing Forest Fire Susceptibility and Its Impact on Biodiversity in Brandenburg Using Machine Learning and Climate Projections
-link: ../projects/Forest-Fire-Susceptibility.qmd   
----
-<a href="https://github.com/fyeqaa/forest-fires-susceptilibty" target="_blank">
-  <button style="background-color:#24292e; color:white; padding:8px 16px; border:none; border-radius:5px; cursor:pointer;">
-    GitHub
-  </button>
-</a>
-
-
 This Project is part of my Master’s Thesis at Technische Universität Berlin. The study investigates forest fire susceptibility in Brandenburg, Germany, using machine learning, explainable AI (XAI), and climate projections, while also evaluating the ecological risks to biodiversity within protected areas.
 
 This project addresses:
