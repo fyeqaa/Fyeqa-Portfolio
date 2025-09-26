@@ -69,5 +69,5 @@ Collaborated with the **BIH QUEST Center for Responsible Research** to develop *
 ## Connect with Me
 
 - Email: fyeqaakram30@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/fyeqa-akram-0a0862200/)
+- [LinkedIn](https://www.linkedin.com/in/fyeqa-akram-geospatial-analyst/)
 
